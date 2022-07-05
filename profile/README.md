@@ -1,4 +1,7 @@
 # Naoki Solutions
+## Que hacemos en Naoki?
+
+En Naoki, somos un grupo de desarrolladores que hace todo tipo de cosas para ayudar a la comunidad. Queremos innovar, inventar cosas nuevas, y hacer cosas optimas.
 
 <!--
 
